@@ -1,0 +1,21 @@
+{
+   "name": "Moyai",
+   "version": "1.2.1",
+   "description": "🗿",
+   "authors": [
+      {
+         "name": "Fiery",
+         "id": "890228870559698955"
+      }
+      { "name": "Egg",
+         "id": "1015049434607927306"
+      }
+   ],
+   "updater": {
+      "plugin": "https://github.com/FierysDiscordAddons/Moyai/releases/latest/download/Moyai.js",
+      "manifest": "https://github.com/FierysDiscordAddons/Moyai/releases/latest/download/manifest.json",
+      "changelog": "Add Updater support",
+      "source": "https://github.com/FierysDiscordAddons/Moyai"
+   },
+   "color": "#8c8c8c"
+}
