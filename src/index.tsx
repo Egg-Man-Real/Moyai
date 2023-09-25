@@ -95,7 +95,7 @@ const Moyai: Plugin = {
                   }
                   
                })
-set(Manifest.name, 'moyaiCounter', Number(get(Manifest.name, 'moyaiCounter', 0)) + 1)
+
                return <>
                   {orig.apply(self, args)}
                   <Video ref={(ref) => { vid = ref }}
