@@ -75,6 +75,7 @@ const Moyai: Plugin = {
                      if (paused) setPaused(false)
                      // Secret!
                      args[0].message.content = args[0].message.content.replace("*‍*", " 🗿")
+                     set(Manifest.name, 'moyaiCounter', Number(get(Manifest.name, 'moyaiCounter', 0)) + 1)
                   }
                })
 
@@ -85,6 +86,7 @@ const Moyai: Plugin = {
 
                      // Secret!
                      args[0].message.content = args[0].message.content.replace("*‍*", " 🗿")
+                     set(Manifest.name, 'moyaiCounter', Number(get(Manifest.name, 'moyaiCounter', 0)) + 1)
                   }
                })
 
@@ -92,6 +94,7 @@ const Moyai: Plugin = {
                   if (args[0].channelId === channelId && isBoomWorthy(args[0].emoji.name)) {
                      vid.seek(0)
                      if (paused) setPaused(false)
+                     set(Manifest.name, 'moyaiCounter', Number(get(Manifest.name, 'moyaiCounter', 0)) + 1)
                   }
                   
                })
