@@ -15,7 +15,7 @@
       "plugin": "https://github.com/Egg-Man-Real/Moyai/releases/latest/download/Moyai.js",
       "manifest": "https://github.com/Egg-Man-Real/Moyai/releases/latest/download/manifest.json",
       "changelog": "This is mirrored now",
-      "source": "https://github.com/Egg-Man-Real/Moyai"
+      "source": "https://github.com/Egg-Man-Real/Moyai",
    },
    "color": "#F47FFE"
 }
