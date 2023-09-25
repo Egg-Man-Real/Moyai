@@ -12,8 +12,8 @@
       }
    ],
    "updater": {
-      "plugin": "https://github.com/FierysDiscordAddons/Moyai/releases/latest/download/Moyai.js",
-      "manifest": "https://github.com/FierysDiscordAddons/Moyai/releases/latest/download/manifest.json",
+      "plugin": "https://github.com/Egg-Man-Real/Moyai/releases/latest/download/Moyai.js",
+      "manifest": "https://github.com/Egg-Man-Real/Moyai/releases/latest/download/manifest.json",
       "changelog": "This is mirrored now",
       "source": "https://github.com/Egg-Man-Real/Moyai"
    },
