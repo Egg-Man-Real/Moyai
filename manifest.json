@@ -1,6 +1,6 @@
 {
    "name": "Moyai",
-   "version": "1.2.1",
+   "version": "1.2.2",
    "description": "🗿",
    "authors": [
       {
@@ -14,7 +14,7 @@
    "updater": {
       "plugin": "https://github.com/FierysDiscordAddons/Moyai/releases/latest/download/Moyai.js",
       "manifest": "https://github.com/FierysDiscordAddons/Moyai/releases/latest/download/manifest.json",
-      "changelog": "Add Updater support",
+      "changelog": "This is mirrored now",
       "source": "https://github.com/FierysDiscordAddons/Moyai"
    },
    "color": "#8c8c8c"
