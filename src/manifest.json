@@ -1,6 +1,6 @@
 {
    "name": "Moyai",
-   "version": "1.2.2",
+   "version": "1.2.3",
    "description": "🗿",
    "authors": [
       {
@@ -14,7 +14,7 @@
    "updater": {
       "plugin": "https://github.com/Egg-Man-Real/Moyai/releases/latest/download/Moyai.js",
       "manifest": "https://github.com/Egg-Man-Real/Moyai/releases/latest/download/manifest.json",
-      "changelog": "This is mirrored now",
+      "changelog": "Fix Moyai Count",
       "source": "https://github.com/Egg-Man-Real/Moyai"
    },
    "color": "#F47FFE"
