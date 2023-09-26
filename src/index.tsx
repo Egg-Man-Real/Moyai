@@ -34,7 +34,7 @@ const Moyai: Plugin = {
       }
 
       let attempt = 0
-      const attempts = 3
+      const attempts = 1
 
       const lateStart = () => {
          try {
