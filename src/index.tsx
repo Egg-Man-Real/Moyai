@@ -94,7 +94,7 @@ const Moyai: Plugin = {
                   if (args[0].channelId === channelId && isBoomWorthy(args[0].emoji.name)) {
                      vid.seek(0)
                      if (paused) setPaused(false)
-                
+                set(Manifest.name, 'moyaiCounter', Number(get(Manifest.name, 'moyaiCounter', 0)) + 1)
                   }
                   
                })
