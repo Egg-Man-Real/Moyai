@@ -22,7 +22,7 @@ const patcher = create('moyai')
 
 function isBoomWorthy(content: string) {
    content = content.toLowerCase()
-   return ["🗿", "moyai", "moai", "boom", "vine", "💥", "*‍*"].some((trigger) => content.includes(trigger))
+   return ["🗿", "moyai", "moai", "boom", "fluushed", "vine", "💥", "*‍*"].some((trigger) => content.includes(trigger))
 }
 
 const Moyai: Plugin = {
